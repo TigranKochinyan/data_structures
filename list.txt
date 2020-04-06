@@ -1,0 +1,7 @@
+arraylist petq e ogtagorcel erb arajnain e elementin indexov dimel@ qani vor da katarvum e constant jamanakum, himnakanum naev masivi verjic element avelcnel@ nunpes katarvum e constant jamanakum, baci ayd arraylist_um hishoxutyan avelnord caxs chka pahelu hamar elenetneri mej kaper@:
+minusner@  ` erb avelacvum/jnjvum en elementner voch verjic, bolor aj koxmum gtnvox elementner@ texasharjvum en:
+
+LinkedList_@ harmar e erb arajnain e avelacum/jnjum gorcoxutyunneri aragutyun@ voronq katarvum en constant jamnakum;
+indexov element gtnelu hamar petq e skzbic/verjic hertov gnal michev tvyal index@; avelnord caxs elementneri mej kaper@ pahelu hamar;
+
+ete petq e shat qanakutyamb jnjel/avelacnel aveli harmar e ogtagorcel LinkedList hakarak depqum ArrayList 
